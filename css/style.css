@@ -50,6 +50,13 @@ p {
     width: 25%;
 }
 
+/* Clear floats after the columns */
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
 #copyright {
  text-align: right; 
 }
