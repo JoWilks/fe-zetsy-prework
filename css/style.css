@@ -24,13 +24,12 @@ h1 {
   font-size: 6em;
   font-weight: normal;
   margin-top: 0px;
-  margin-bottom: 20px;
+  margin-bottom: 15px;
   border-bottom: 1px solid black;
 }
 
 img {
   border: 5px solid #9aa99a;
-  margin-top: 0px;
 }
 
 h2 {
