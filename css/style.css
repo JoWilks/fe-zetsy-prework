@@ -58,6 +58,12 @@ p {
     clear: both;
 }
 
+#link-image {
+  border: 5px solid #9aa99a;
+  
+}
+
+
 #copyright {
  text-align: right; 
  font-size: 0.8em;
