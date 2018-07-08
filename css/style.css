@@ -46,6 +46,6 @@ p {
 }
 
 
-.copyright {
-  
+#copyright {
+ text-align: right; 
 }
