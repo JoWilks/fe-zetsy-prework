@@ -25,6 +25,10 @@ h1 {
   font-weight: normal;
 }
 
+img {
+  border: 5px 
+}
+
 h2 {
   color: #647f78;
   font-size: 2.5em;
@@ -40,3 +44,4 @@ p {
   text-decoration: none;
   color: blue;
 }
+
