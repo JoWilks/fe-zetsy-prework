@@ -26,3 +26,8 @@ h1 {
 h2 {
   color: #647f78;
 }
+
+.learn_link {
+  text-decoration: none;
+  color: blue;
+}
