@@ -26,7 +26,7 @@ h1 {
 }
 
 img {
-  border-color: gray;
+  border: 5px gray;
 }
 
 h2 {
